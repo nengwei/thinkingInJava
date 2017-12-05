@@ -1,4 +1,4 @@
-package com.wn.thread.two.six;
+package com.wn.unit.twoone.two.six;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;

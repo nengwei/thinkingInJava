@@ -1,10 +1,10 @@
-package com.wn.thread.two.five;
+package com.wn.unit.twoone.two.five;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.concurrent.TimeUnit;
 
-import com.wn.thread.LiftOff;
+import com.wn.unit.twoone.LiftOff;
 
 /**
  * sleep test
