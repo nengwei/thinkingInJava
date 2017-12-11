@@ -6,7 +6,7 @@ package com.wn.module.factory.singleton;
  * 
  * @time 2017-12-11
  * 
- * @desc 单例线程安全
+ * @desc 单例:同步
  */
 public class Singleton_03 {
 
