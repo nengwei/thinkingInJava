@@ -1,4 +1,4 @@
-package com.wn.thread;
+package com.wn.unit.twoone;
 
 /**
  * Created by nengwei on 17/6/10.
